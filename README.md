@@ -16,7 +16,7 @@ Este repositório contém um simulador de "areia caindo", implementado em Python
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/BrunoMartinsGameDev/fallingsand.git
+git clone https://github.com/BrunoMartinsGameDev/FallingSand.git
 cd falling-sand-simulator
 ```
 ---
